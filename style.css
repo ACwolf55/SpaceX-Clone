@@ -1,0 +1,169 @@
+#first{  
+    
+    height: 100vh;
+    color: white;
+    background-image: url('https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2020-11/gps_iii-4_launch_streak-spacex.jpg?itok=uoyuvFBm');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+    header {
+    display:flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    height: 20vh;
+    
+
+    }
+
+        #spacex-logo {
+    
+        flex: start;
+        font-size: 50px;
+        margin:30px;
+        
+
+        }
+
+        nav {
+        font-size: 12px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+       
+    
+        }
+
+        #empty2 {
+        width: 25vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        
+
+
+        }
+
+        #burger{
+            background-image: url('https://img.favpng.com/22/18/24/hamburger-button-computer-icons-marmon-keystone-canada-menu-png-favpng-8zH9EzUPy4hMCeW7EKgLENdU6.jpg');
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 30px;
+            width: 30px;
+            /* background-image: url('https://upload.wikimedia.org/wikipedia/commons/b/b2/Hamburger_icon.svg'); */
+        
+        
+            
+
+        }
+
+    aside {
+    width: 20vw;
+    height: 80vh;
+    display:flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    text-align: center;
+    
+
+    }
+
+        #empty1 {
+
+            display: flex;
+            height: 45vh;
+            
+
+        }
+
+        #recent-launch{
+            display: flex;
+            font-size: 18px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            
+            padding: 15px;
+            font-weight: bolder;
+
+        }
+        #gps{
+            
+
+            font-size: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            width: 40vw;
+            padding: 15px;
+
+        }
+        #replay{
+       
+            height: 50px;
+            width: 150px;
+            display: flex;
+            
+            align-items: center;
+            border: 3px solid rgb(255, 255, 255);
+            margin: 30px;
+            justify-content: center;
+            text-align: center;
+            font-size: 15px;
+        }
+
+
+#second {
+
+    height: 100vh;
+    color: white;
+    background-color: rgb(173, 171, 165);      
+
+
+
+}
+
+#third {
+
+    height: 100vh;
+    color: white;
+    background-color: rgb(0, 0, 0);
+
+
+}
+
+
+#fourth {
+
+    height: 100vh;
+    color: white;
+    background-color: rgb(98, 157, 224);
+
+
+}
+
+
+#fifth {
+
+    height: 100vh;
+    color: white;
+    background-color: rgb(89, 120, 121);
+
+
+
+}
+
+#footer {
+    height: 20vh;
+    background-color: black;
+
+}
+
